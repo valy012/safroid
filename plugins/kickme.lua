@@ -28,7 +28,7 @@ end
 return {
   description = "Bot kicks user",
   usage = {
-    "!kickme"
+    "!kickme"کیک کردن من
   },
   patterns = {
     "^!kickme$"
